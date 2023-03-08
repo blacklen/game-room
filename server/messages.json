@@ -1,0 +1,43 @@
+{
+  "messages": [
+    {
+      "text": "Hello!",
+      "name": "nevodavid",
+      "id": "abcd01"
+    },
+    {
+      "text": "Welcome to my chat application!💃🏻",
+      "name": "nevodavid",
+      "id": "defg02"
+    },
+    {
+      "text": "You can start chatting!📲",
+      "name": "nevodavid",
+      "id": "hijk03"
+    },
+    {
+      "text": "He",
+      "name": "blacklen",
+      "id": "ThgsyXa-aK2wa960AAAH0.18150083841174025",
+      "socketID": "ThgsyXa-aK2wa960AAAH"
+    },
+    {
+      "text": "Helo",
+      "name": "blacklen",
+      "id": "uM73hVJd3gvaz76uAAAC0.16931109972244007",
+      "socketID": "uM73hVJd3gvaz76uAAAC"
+    },
+    {
+      "text": "hello",
+      "name": "blacklen",
+      "id": "i0DNh6narQ3nIN8GAAAD0.8559837123376965",
+      "socketID": "i0DNh6narQ3nIN8GAAAD"
+    },
+    {
+      "text": "hi",
+      "name": "__ian",
+      "id": "mt3AyFQ79_LqcEJ1AAAD0.016085954036126227",
+      "socketID": "mt3AyFQ79_LqcEJ1AAAD"
+    }
+  ]
+}
